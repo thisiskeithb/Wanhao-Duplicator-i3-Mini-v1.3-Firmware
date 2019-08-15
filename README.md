@@ -4,4 +4,4 @@
 
 ## Additional Information
 
-This firmware is configured for the Wanhao Duplicator i3 Mini. I'd recommend downloading & installing [Marlin 2.0](https://github.com/MarlinFirmware/Marlin/archive/bugfix-2.0.x.zip) as this printer & rebrands are now fully supported.
+This firmware is configured for the Wanhao Duplicator i3 Mini and has pre-built configurations for the Cocoon Create Model Maker & Monoprice MP i3 Mini in the example_configurations folder.
