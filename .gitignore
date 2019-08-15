@@ -128,6 +128,7 @@ Marlin/Release/
 Marlin/Debug/
 Marlin/__vm/
 Marlin/.vs/
+.vscode/
 
 #cmake
 CMakeLists.txt
