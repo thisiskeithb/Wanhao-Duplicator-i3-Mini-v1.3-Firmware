@@ -44,7 +44,8 @@
     #define DOGLCD
     #define ULTIPANEL
     #define NEWPANEL
-    #define DEFAULT_LCD_CONTRAST 200//17
+    #define DEFAULT_LCD_CONTRAST 255
+    #define LCD_CONTRAST_MAX 255
 
   #elif ENABLED(ANET_KEYPAD_LCD)
 
@@ -308,7 +309,7 @@
         #define LCD_CONTRAST_MAX 255
       #endif
       #ifndef DEFAULT_LCD_CONTRAST
-        #define DEFAULT_LCD_CONTRAST 32
+        #define DEFAULT_LCD_CONTRAST 255
       #endif
     #endif
   #endif
